@@ -1,4 +1,3 @@
-# Teste Técnico da AvantSoft
 # 📚 API de Estudantes
 
 API REST construída em **Spring Boot** para gerenciar estudantes.
